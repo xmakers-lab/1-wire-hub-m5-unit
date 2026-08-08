@@ -1,0 +1,10 @@
+{
+  "name": "DS2482",
+  "version": "0.2.0",
+  "description": "DS2482-800 (I2C to 1-Wire bridge, 8ch) のチップ制御（Device Reset/Status/Channel Select）と、1-Wireビット操作（OneWireMaster実装）を行うライブラリ",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "dependencies": {
+    "OneWireMaster": "*"
+  }
+}

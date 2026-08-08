@@ -1,0 +1,7 @@
+{
+  "name": "OneWireMaster",
+  "version": "0.1.0",
+  "description": "1-Wireバスマスタの抽象インターフェース（DS18B20等のデバイスドライバとバス実装を分離するための最小I/F）",
+  "frameworks": "arduino",
+  "platforms": "*"
+}

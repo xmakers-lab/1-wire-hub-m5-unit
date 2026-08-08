@@ -1,0 +1,10 @@
+{
+  "name": "DS18B20",
+  "version": "0.1.0",
+  "description": "DS18B20 (1-Wire温度センサー) のドライバ。OneWireMasterインターフェースにのみ依存し、DS2482等のバス実装を問わず使用できる（Skip ROM使用のため単独接続前提）",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "dependencies": {
+    "OneWireMaster": "*"
+  }
+}
