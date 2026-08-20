@@ -91,11 +91,12 @@ DS2482とDS18B20を組み合わせ、ch0〜ch5に接続したDS18B20から温度
 
 ## 購入先
 
-BASE: https://xmakers.base.shop/  
-スイッチサイエンス： https://www.switch-science.com/search?q=xmakers
+[スイッチサイエンス](https://www.switch-science.com/search?q=xmakers)
+
+[BASE](https://xmakers.base.shop/)
 
 ---
 
 ## ライセンス
 
-MIT License。詳細は [LICENSE](./LICENSE) を参照してください。
+[MIT License](LICENSE)
